@@ -1,0 +1,2 @@
+# Fire_detection_and_tendency_analysis_based_on_image_features
+A_matlab_lab: Fire_detection_and_tendency_analysis_based_on_image_features
