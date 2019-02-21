@@ -1,6 +1,10 @@
 # Fire_detection_and_tendency_analysis_based_on_image_features
 A_matlab_lab: Fire_detection_and_tendency_analysis_based_on_image_features
-![Beginning](https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/Beginning.png)
-![Show Tendency](https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/show_tendency.png)
-![Show Video](https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/show_video.png)
-![Ending](https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/Ending.png)
+## Beginning 
+<div align=center><img width="646" height="476" src="https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/Beginning.png"/></div>
+
+## Show Tendency
+<div align=center><img width="500" height="349" src="https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/show_tendency.png"/></div>
+
+## Show Video
+<div align=center><img width="451" height="364" src="https://github.com/Gchinanty/Fire_detection_and_tendency_analysis_based_on_image_features/blob/master/show_video.png"/></div>
