@@ -1,5 +1,6 @@
 # Fire detection and tendency analysis based on image features
 ***A matlab lab: Fire detection and tendency analysis based on image features***
+***These codes have been applied for a utility model patent. But you can reference them.***
 ## Introduction
 The system is called -- *Fire detection and trend analysis system based on image feature*.
 
