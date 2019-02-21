@@ -1,5 +1,5 @@
-# Fire_detection_and_tendency_analysis_based_on_image_features
-***A_matlab_lab: Fire_detection_and_tendency_analysis_based_on_image_features***
+# Fire detection and tendency analysis based on image features
+***A matlab lab: Fire detection and tendency analysis based on image features***
 ## Introduction
 The system is called -- *Fire detection and trend analysis system based on image feature*.
 
